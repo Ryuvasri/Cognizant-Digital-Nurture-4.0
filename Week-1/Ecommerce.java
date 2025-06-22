@@ -90,7 +90,7 @@ class Search {
 }
 
 /*
-    **Binary search** is more suitable for the e-commerce platform as it offers faster search performance (`O(log n)`) on sorted product lists. 
+    Binary search is more suitable for the e-commerce platform as it offers faster search performance (O(log n)) on sorted product lists. 
     This ensures quick and efficient user experience even with large datasets.
  
  */
