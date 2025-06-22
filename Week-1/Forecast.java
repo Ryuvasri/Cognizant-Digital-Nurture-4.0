@@ -24,7 +24,7 @@ public class Forecast
 }
 
 /*
-    The recursive algorithm has a time complexity of **O(n)** since it makes one call per year.
-    To optimize it, use an **iterative approach** to reduce memory usage and avoid stack overflow.
+    The recursive algorithm has a time complexity of O(n) since it makes one call per year.
+    To optimize it, use an iterative approach to reduce memory usage and avoid stack overflow.
  
  */
